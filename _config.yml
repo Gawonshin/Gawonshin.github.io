@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "𝕡𝕒𝕣𝕒𝕤𝕠𝕝 𝕠𝕗 𝕔𝕝𝕠𝕦𝕕𝕤"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : ｗｅｌｃｏｍｅ ｔｏ ｐａｒａｓｏｌ ｏｆ ｃｌｏｕｄｓ. ｔａｓｔｙｃｏｍｍｏｎｌａｎｄ ｐｒｏｖｉｄｅｓ ｐｌａｃｅ ｆｏｒ ｌｅｉｓｕｒｅ ａｎｄ ｐｌｅａｓｕｒｅ.
+name                     : "𝕥𝕒𝕤𝕥𝕪_𝕔𝕠𝕞𝕞𝕠𝕟𝕝𝕒𝕟𝕕"
+description              : "𝚆𝚎 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚜𝚙𝚎𝚌𝚒𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,22 +78,22 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : 𝚑𝚞𝚖𝚊𝚗𝚒𝚜𝚝
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "𝕥𝕒𝕤𝕥𝕪_𝕔𝕠𝕞𝕞𝕠𝕟𝕝𝕒𝕟𝕕"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "𝚌𝚊𝚕𝚕 𝚖𝚎 𝚋𝚢 𝚢𝚘𝚞𝚛 𝚗𝚊𝚖𝚎"
+  location         : "𝚆𝚎 𝚊𝚕𝚕 𝚕𝚒𝚟𝚎 𝚒𝚗 𝚊 𝚈𝚎𝚕𝚕𝚘𝚠 𝚜𝚞𝚋𝚖𝚊𝚛𝚒𝚗𝚎."
+  email            : goguma407@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
