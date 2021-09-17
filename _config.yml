@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "𝕡𝕒𝕣𝕒𝕤𝕠𝕝 𝕠𝕗 𝕔𝕝𝕠𝕦𝕕𝕤"
 title_separator          : "-"
-subtitle                 : ｗｅｌｃｏｍｅ ｔｏ ｐａｒａｓｏｌ ｏｆ ｃｌｏｕｄｓ. ｔａｓｔｙｃｏｍｍｏｎｌａｎｄ ｐｒｏｖｉｄｅｓ ｐｌａｃｅ ｆｏｒ ｌｅｉｓｕｒｅ ａｎｄ ｐｌｅａｓｕｒｅ.
+subtitle                 : 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚊𝚜𝚘𝚕 𝚘𝚏 𝚌𝚕𝚘𝚞𝚍𝚜. 𝚝𝚊𝚜𝚝𝚢𝚌𝚘𝚖𝚖𝚘𝚗𝚕𝚊𝚗𝚍 𝚙𝚛𝚘𝚟𝚒𝚍𝚎𝚜 𝚙𝚕𝚊𝚌𝚎 𝚏𝚘𝚛 𝚕𝚎𝚒𝚜𝚞𝚛𝚎 𝚊𝚗𝚍 𝚙𝚕𝚎𝚊𝚜𝚞𝚛𝚎.
 name                     : "𝕥𝕒𝕤𝕥𝕪_𝕔𝕠𝕞𝕞𝕠𝕟𝕝𝕒𝕟𝕕"
-description              : "𝚆𝚎 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚜𝚙𝚎𝚌𝚒𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "𝚆𝚎 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 you 𝚜𝚙𝚎𝚌𝚒𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎."
+url                      : https://gawonshin.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
