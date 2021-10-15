@@ -25,7 +25,7 @@ url                      : https://gawonshin.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/제목 없는 디자인.gif" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/cop.jpg"
+logo                     : "/assets/images/icon.png"
 masthead_title           : "𝕡𝕒𝕣𝕒𝕤𝕠𝕝 𝕠𝕗 𝕔𝕝𝕠𝕦𝕕𝕤"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
